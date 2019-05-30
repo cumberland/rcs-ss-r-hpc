@@ -38,21 +38,3 @@ Tools we'll need...
 	- Nothing fancy needed. Git-Bash is good on Windows, CC has a recommendation, OSX and Linux just use the default terminal. 
 
 
-## Getting Started. 
-
-1. Lets get Docker installed and tested. 
-
-2. Running R as a containerized service. 
-
-3. Lets get Git installed and tested.
-
-4. Establish version control for your working file set.
-
-5. Look at and discuss a Dockerfile for this type of project.
-
-6. Build the first verison of the image. 
-
-7. Other setup.  Database.  SQS service.
-
-8. Results store.  
-
